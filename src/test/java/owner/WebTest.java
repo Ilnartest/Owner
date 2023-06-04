@@ -1,7 +1,5 @@
 package owner;
 
-import owner.config.WebDriverConfig;
-import org.aeonbits.owner.ConfigFactory;
 import org.junit.jupiter.api.Test;
 
 import static com.codeborne.selenide.Condition.text;
